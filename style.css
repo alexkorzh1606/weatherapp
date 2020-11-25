@@ -1,0 +1,54 @@
+body {
+    font-family: 'Questrial', sans-serif;
+    height: 100%;
+    background-color: #58748C;
+}
+
+.header {
+    text-align: center;
+    font-size: 45px;
+    color: #D99414;
+}
+
+.input_section {
+    background-color: #8C442A;
+    margin: 0 35%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.input_label {
+    color: #D99414;
+    font-size: 25px;
+}
+
+.input {
+    border: none;
+    outline: none;
+    font-size: 25px;
+    margin: 20px 0;
+    color: #A64029;
+    background-color: #D99414;
+}
+
+.input_button {
+    border: none;
+    background-color: #A64029;
+    color: #D99414;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.output_section {
+    background-color: #D99414;
+    margin: 10px 35%;
+    padding: 10px;
+}
+
+.output_section p {
+    color: #8C442A;
+    font-size: 25px;
+}
